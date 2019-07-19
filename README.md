@@ -15,7 +15,7 @@ npm start
 
 Navigate to ` http://localhost:3000/`.
 
-## List
+## List of examples
 
 - tic-tac-toe
 
