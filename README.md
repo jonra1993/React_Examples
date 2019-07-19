@@ -8,10 +8,9 @@ These are my personal Reactjs examples.
 Run local server:
 
 ```bash
-git clone https://github.com/taniarascia/taniarascia.com
-cd taniarascia.com
-yarn
-yarn run dev
+git clone https://github.com/jonra1993/React_Examples.git
+cd example-name
+npm start
 ```
 
 Navigate to ` http://localhost:3000/`.
