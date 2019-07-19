@@ -12,5 +12,7 @@ ol, ul {
 }
 
 .status {
+  font-weight: bold;
   margin-bottom: 10px;
+  font-size: 30px;
 }
