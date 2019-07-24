@@ -19,6 +19,12 @@ Navigate to ` http://localhost:3000/`.
 
 - tic-tac-toe
 
+## Libraries used
+
+# [Material-ui](https://material-ui.com/)
+
+
+
 ## Author
 
 - [Jonathan Vargas](https://www.jonathanvargas.ml)
